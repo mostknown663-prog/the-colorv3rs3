@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zabivaka/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/zabivaka/","dg-note-properties":{}}
 ---
 
 > [!infobox|gold]
