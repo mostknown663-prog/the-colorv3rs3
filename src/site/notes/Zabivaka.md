@@ -26,8 +26,8 @@
 > |Species| <ul><li>Wolf (Original Media Universe)</li><li>Color (Colorverse/Chromaverse)</li></ul>|
 > |Subspecies|Character Color|
 > |Variety|Mascot Color|
-> |Special Feature||
-> |Clothes||
+> |Special Feature|<ul><li>Ears</li><li>Nose</li><li>Eyes with Pupils</li><li>Tail</li><li>Paws</li><li>Two-Toned Fur</li></ul>||
+> |Clothes|<ul><li>Goggles</li><li>Shirt</li><li>Red Shorts</li></ul>
 > |Needs Glasses?||
 > |Character Based Off of||
 > |Eye Color|Sky Blue|
@@ -214,3 +214,4 @@
 > |Playlist||
 > |Ref Sheet||
 
+Zabivaka is a male yellow character color from the Year of 2026 sessions, although it is unknown when he'll get made. He currently does not have a design in the colorverse, so his infobox uses a placeholder image from his original source.
